@@ -6,7 +6,7 @@ This repository includes 4 files, read_me file, the R script named `run_analysis
 Goal | Item | Link to Item
 --- | --- | ---
 R Script |  run_analysis.R |  [Link](https://github.com/MrJimmyJones/datasciencecoursera/blob/main/3.Getting_and_Cleaning_Data/projects/run_analysis.R)
-Read_me file | README.md | [Link](https://github.com/MrJimmyJones/datasciencecoursera/blob/main/3.Getting_and_Cleaning_Data/projects/README.md))
+Read_me file | README.md | [Link](https://github.com/MrJimmyJones/datasciencecoursera/blob/main/3.Getting_and_Cleaning_Data/projects/README.md)
 CodeBook file | CodeBook.md | [Link](https://github.com/MrJimmyJones/datasciencecoursera/blob/main/3.Getting_and_Cleaning_Data/projects/CodeBook.md)
 Tidy Data file |  Clean Data Set |  [Link](https://github.com/MrJimmyJones/datasciencecoursera/blob/main/3.Getting_and_Cleaning_Data/projects/tidyData.txt)
 
